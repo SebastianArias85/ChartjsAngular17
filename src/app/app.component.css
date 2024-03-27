@@ -1,0 +1,13 @@
+.circulo{
+    background-color: rgb(206, 200, 184); 
+    padding-top: 50px;
+    padding-bottom: 50px;  
+    border-radius: 10px; 
+    width: 400px;
+}
+
+.linea, .barra, .burbuja{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
